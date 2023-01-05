@@ -32,21 +32,21 @@ Create a script that loops through all the stocks for one year and outputs the f
 
   * The total stock volume of the stock.
 
-**Note:** Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
 The result should match the following image:
+<img width="709" alt="Screenshot 2023-01-05 at 2 43 36 PM" src="https://user-images.githubusercontent.com/120051602/210866792-b25baedd-5694-46f9-8426-0caaff4d1db5.png">
 
-![moderate_solution](Images/moderate_solution.png)
 
 ## Bonus
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-![hard_solution](Images/hard_solution.png)
+<img width="1059" alt="Screenshot 2023-01-05 at 2 44 04 PM" src="https://user-images.githubusercontent.com/120051602/210866831-197409b7-20f0-4951-8af0-50fd6f50920d.png">
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
 ## Other Considerations
+
 
 * Use the sheet `alphabetical_testing.xlsx` while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3 to 5 minutes.
 
