@@ -10,11 +10,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 2. Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
 
-### Files
-
-* [Test Data](Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
-
-* [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock Market Analyst
 
@@ -34,6 +29,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 
 The result should match the following image:
+
 <img width="709" alt="Screenshot 2023-01-05 at 2 43 36 PM" src="https://user-images.githubusercontent.com/120051602/210866792-b25baedd-5694-46f9-8426-0caaff4d1db5.png">
 
 
